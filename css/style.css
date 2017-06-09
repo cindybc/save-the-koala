@@ -2,3 +2,11 @@
 wood brown: A89F68;
 army green: 41521F;
 */
+
+.first-section{
+	background-image: url(../img/portada.jpg);
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
